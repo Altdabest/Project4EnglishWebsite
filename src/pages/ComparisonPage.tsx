@@ -59,7 +59,7 @@ export default function ComparisonPage() {
               src="./images/old-vs-new.jpg"
               alt="Old vs New Social Media — from desktop computers to smartphones"
               className="w-full object-cover"
-              style={{ maxHeight: "420px" }}/*should work*/
+              style={{ maxHeight: "420px" }}/*should works*/
             />
           </div>
           <p className="mt-3 text-center text-sm text-slate-500">
