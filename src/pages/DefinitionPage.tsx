@@ -154,11 +154,17 @@ export default function DefinitionPage() {
           {/* Creative Mode: Embedded YouTube video */}
           <div className="mt-10">
             <h3 className="mb-4 text-lg font-semibold text-indigo-300">
-              🎬 Creative Mode: Video — The Evolution of Social Media
+              🎬 Video — The Evolution of Social Media
             </h3>
             <div className="overflow-hidden rounded-2xl border border-slate-800">
               <div className="relative w-full" style={{ paddingBottom: "56.25%" }}>
-<iframe width="805" height="453" src="https://www.youtube.com/embed/M5YKW6fhlss" title="Social Media: Crash Course Navigating Digital Information #10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>              </div>
+                <iframe
+                className="absolute top-0 left-0 h-full w-full"
+                src="https://www.youtube.com/embed/M5YKW6fhlss"
+                title="Social Media: Crash Course Navigating Digital Information #10"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              />
             </div>
             <p className="mt-3 text-sm text-slate-500">
               This video provides a visual overview of how social media platforms have evolved over time.

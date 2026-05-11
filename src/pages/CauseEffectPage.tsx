@@ -36,7 +36,7 @@ export default function CauseEffectPage() {
             />
           </div>
           <p className="mt-3 text-center text-sm text-slate-500">
-            🎨 Creative Mode: AI-generated illustration — The isolating glow of social media.
+            The isolating glow of social media.
           </p>
         </div>
       </section>
@@ -186,7 +186,7 @@ export default function CauseEffectPage() {
       <section className="py-16">
         <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
           <h3 className="mb-4 text-lg font-semibold text-indigo-300">
-            🎬 Creative Mode: Video — Social Media &amp; Mental Health
+            🎬 Video — Social Media &amp; Mental Health
           </h3>
           <div className="overflow-hidden rounded-2xl border border-slate-800">
             <div className="relative w-full" style={{ paddingBottom: "56.25%" }}>

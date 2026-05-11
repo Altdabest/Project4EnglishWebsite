@@ -63,7 +63,7 @@ export default function ComparisonPage() {
             />
           </div>
           <p className="mt-3 text-center text-sm text-slate-500">
-            🎨 Creative Mode: AI-generated illustration — The evolution from desktop social media to mobile platforms.
+            The evolution from desktop social media to mobile platforms.
           </p>
         </div>
       </section>
