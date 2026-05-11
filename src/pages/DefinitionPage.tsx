@@ -158,13 +158,13 @@ export default function DefinitionPage() {
             </h3>
             <div className="overflow-hidden rounded-2xl border border-slate-800">
               <div className="relative w-full" style={{ paddingBottom: "56.25%" }}>
-                <iframe
-                  className="absolute top-0 left-0 h-full w-full"
-                  src="https://www.youtube.com/embed/0HvrFPizfb4"
-                  title="History of Social Media"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen
-                />
+                <iframe width="560" height="315"
+                src="https://www.youtube.com/embed/M5YKW6fhlss"
+                title="Social Media: Crash Course Navigating Digital Information #10"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+                </iframe>
               </div>
             </div>
             <p className="mt-3 text-sm text-slate-500">
