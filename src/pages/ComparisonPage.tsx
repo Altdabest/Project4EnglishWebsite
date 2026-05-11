@@ -56,7 +56,7 @@ export default function ComparisonPage() {
         <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
           <div className="overflow-hidden rounded-2xl border border-slate-800">
             <img
-              src="./images/old-vs-new.jpg"
+              src="./public/images/old-vs-new.jpg"
               alt="Old vs New Social Media — from desktop computers to smartphones"
               className="w-full object-cover"
               style={{ maxHeight: "420px" }}
