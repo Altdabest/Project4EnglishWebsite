@@ -29,7 +29,7 @@ export default function CauseEffectPage() {
         <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
           <div className="overflow-hidden rounded-2xl border border-slate-800">
             <img
-              src="./public/images/mental-health.jpg"
+              src="./images/mental-health.jpg"
               alt="Young person looking at phone screen in dark room — illustrating social media's mental health impact"
               className="w-full object-cover"
               style={{ maxHeight: "420px" }}
