@@ -76,7 +76,7 @@ export default function ComparisonPage() {
               <Monitor size={40} className="mx-auto mb-4 text-blue-400" />
               <h3 className="text-xl font-bold">Legacy Platforms</h3>
               <p className="mt-2 text-sm text-slate-400">
-                MySpace · Early Facebook · Forums
+                MySpace · Bulletin Board Systems(BBS) · SixDegrees 
               </p>
               <p className="mt-4 text-slate-300 leading-relaxed text-sm">
                 Profile-oriented, desktop-based, chronological feeds, personal connection
