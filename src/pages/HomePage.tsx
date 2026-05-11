@@ -40,7 +40,7 @@ export default function HomePage() {
         {/* Background image */}
         <div
           className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: "url('/images/hero-social-media.jpg')" }}
+          style={{ backgroundImage: "url('./images/hero-social-media.jpg')" }}
         />
         <div className="absolute inset-0 bg-gradient-to-b from-slate-950/80 via-slate-950/70 to-slate-950" />
 
