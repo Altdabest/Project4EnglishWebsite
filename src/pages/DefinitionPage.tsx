@@ -159,12 +159,13 @@ export default function DefinitionPage() {
             <div className="overflow-hidden rounded-2xl border border-slate-800">
               <div className="relative w-full" style={{ paddingBottom: "56.25%" }}>
                 <iframe
-                className="absolute top-0 left-0 h-full w-full"
-                src="https://www.youtube.com/embed/M5YKW6fhlss"
-                title="Social Media: Crash Course Navigating Digital Information #10"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              />
+                  className="absolute top-0 left-0 h-full w-full"
+                  src="https://www.youtube.com/embed/M5YKW6fhlss"
+                  title="Social Media: Crash Course Navigating Digital Information #10"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                />
+              </div>
             </div>
             <p className="mt-3 text-sm text-slate-500">
               This video provides a visual overview of how social media platforms have evolved over time.
